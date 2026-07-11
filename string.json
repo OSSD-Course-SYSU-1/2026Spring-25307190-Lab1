@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "distributed_data_sync_reason",
+      "value": "用于跨设备数据同步"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "read_media_reason",
+      "value": "用于选择本地PPT模板和文档文件"
+    },
+    {
+      "name": "write_media_reason",
+      "value": "用于预览和保存生成的PPT"
+    }
+  ]
+}
